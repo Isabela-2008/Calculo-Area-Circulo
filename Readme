@@ -1,0 +1,39 @@
+# Enunciado do Projeto: Calculadora de Área de Círculo
+
+## Objetivo
+
+Desenvolver um programa em Python que calcule a área de um círculo a partir do raio fornecido pelo usuário.
+
+## Especificações
+
+1. **Leitura do Raio**
+   - O programa deve solicitar ao usuário que insira o raio do círculo.
+
+2. **Cálculo da Área**
+   - O programa deve calcular a área do círculo usando a fórmula `Área = PI * raio²`, onde `PI` é a constante 3.14159.
+
+3. **Exibição da Área**
+   - O programa deve exibir a área calculada, formatada para duas casas decimais.
+
+## Considerações
+
+- O sistema deve ser executado em modo de linha de comando (CLI).
+- O código deve ser simples e organizado, com tratamento básico para garantir que a entrada seja um número válido.
+
+
+# Calculadora de Área de Círculo
+
+Este é um programa simples em Python que calcula a área de um círculo com base no raio fornecido pelo usuário. O programa utiliza a constante `PI` para realizar o cálculo da área.
+
+## Funcionalidades
+
+- **Leitura do Raio:** O programa solicita ao usuário que insira o raio do círculo.
+- **Cálculo da Área:** O programa calcula a área do círculo utilizando a fórmula `Área = PI * raio²`.
+- **Exibição do Resultado:** O programa exibe a área calculada, formatada para duas casas decimais.
+
+## Como Usar
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/calculadora-area-circulo.git
